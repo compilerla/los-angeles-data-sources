@@ -11,13 +11,25 @@ List of civic data sources in the Los Angeles area, including some links to stat
 + [City of Santa Monica Active Permits](http://www.smgov.net/uploadedFiles/Departments/PCD/Permits/Active-Permits.pdf) Report of active building permits updated biweekly (pdf)
 + [City of Santa Monica Parking Rates](http://www.smgov.net/uploadedFiles/Departments/PCD/Transportation/Motorists-Parking/Parking-Rates.pdf) (pdf) Data also available via Parkme app
 + [City of Santa Monica Real-time Parking Availablity](http://www.parkme.com/widget/?lat=34.01680622427998&lng=-118.49805856483461&tracker=a6870aea-21dc-11e2-ba1b-12313d150ae9&zoom=17) Available via Parkme app
-+ 
++ [City of Los Angeles ArcGIS REST Services Directory](http://services1.arcgis.com/p84PN4WZvOWzi2j2/ArcGIS/rest/services) (JSON APIs)
+  + CityBoundary
+  + CouncilDistricts
+  + FireHydrants
+  + LAUSD Schools
+  + Libraries
+  + NeighborhoodCouncils
+  + Parks and Recreation
+  + Streetlights
+  + TrashCollection
++ [Los Angeles County GIS Data Portal](http://egis3.lacounty.gov/dataportal/)
 
 ##Potential
 
 + [Cultivate LA](http://cultivatelosangeles.org/) interactive map and report on all urban ag sites in Los Angeles County
+
 ##Other links
 
 + [Metro Developer](http://developer.metro.net/)
 + [National Day of Civic Hacking Datasets and Resources](http://hackforchange.org/datasets) Community sourced list
 + [OpenDataCatalog San Diego](http://catalog.opensandiego.org/) maintainted by CfA brigade
++ [City of Los Angeles Open Data Pilot](http://lamaps.maps.arcgis.com/home/) Currently just contains a few GIS datasets, see list of ArcGIS REST services above
