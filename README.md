@@ -33,3 +33,4 @@ List of civic data sources in the Los Angeles area, including some links to stat
 + [National Day of Civic Hacking Datasets and Resources](http://hackforchange.org/datasets) Community sourced list
 + [OpenDataCatalog San Diego](http://catalog.opensandiego.org/) maintainted by CfA brigade
 + [City of Los Angeles Open Data Pilot](http://lamaps.maps.arcgis.com/home/) Currently just contains a few GIS datasets, see list of ArcGIS REST services above
++ [Democracy Map API](http://api.democracymap.org/) (JSON)(XML)
