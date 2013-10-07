@@ -22,10 +22,10 @@ List of civic data sources in the Los Angeles area, including some links to stat
   + Streetlights
   + TrashCollection
 + [Los Angeles County GIS Data Portal](http://egis3.lacounty.gov/dataportal/)
-
-##Potential
-
-+ [Cultivate LA](http://cultivatelosangeles.org/) interactive map and report on all urban ag sites in Los Angeles County
++ [City of Santa Monica Job Opportunities](http://agency.governmentjobs.com/santamonica/default.cfm)
++ [City of Los Angeles Job Opportunities](http://agency.governmentjobs.com/lacity/default.cfm)
++ [Los Angeles County Job Opportunities](http://hr.lacounty.gov/wps/portal/dhr/job_search)
++ [Metro Job Opportunities](https://jobs.metro.net/jobsearch.aspx)
 
 ##Other links
 
@@ -35,3 +35,8 @@ List of civic data sources in the Los Angeles area, including some links to stat
 + [City of Los Angeles Open Data Pilot](http://lamaps.maps.arcgis.com/home/) Currently just contains a few GIS datasets, see list of ArcGIS REST services above
 + [Democracy Map API](http://api.democracymap.org/) (JSON)(XML)
 + [Neighborland API](https://neighborland.com/docs)
+
+##Potential
+
++ [Cultivate LA](http://cultivatelosangeles.org/) interactive map and report on all urban ag sites in Los Angeles County
+
