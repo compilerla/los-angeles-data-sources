@@ -35,6 +35,7 @@ List of civic data sources in the Los Angeles area, including some links to stat
 + [City of Los Angeles Open Data Pilot](http://lamaps.maps.arcgis.com/home/) Currently just contains a few GIS datasets, see list of ArcGIS REST services above
 + [Democracy Map API](http://api.democracymap.org/) (JSON)(XML)
 + [Neighborland API](https://neighborland.com/docs)
++ [U.S. Census Tiger Shapefiles](http://forever.codeforamerica.org/Census-API/shutdown-2013.html) a list of where to find shp files not acccessbile through normal routes due to the shutdown
 
 ##Potential
 
