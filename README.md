@@ -42,6 +42,7 @@ List of civic data sources in the Los Angeles area, including some links to stat
 + [Democracy Map API](http://api.democracymap.org/) (JSON)(XML)
 + [Neighborland API](https://neighborland.com/docs)
 + [U.S. Census Tiger Shapefiles](http://forever.codeforamerica.org/Census-API/shutdown-2013.html) a list of where to find shp files not acccessbile through normal routes due to the shutdown
++ [National Highway Traffic Safety Adminstration Fatality Analysis Reporting System and Data](http://www.nhtsa.gov/FARS) raw data available
 
 ##Potential
 
