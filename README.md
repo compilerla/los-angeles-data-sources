@@ -28,6 +28,7 @@ List of civic data sources in the Los Angeles area, including some links to stat
 + [Los Angeles County Job Opportunities](http://hr.lacounty.gov/wps/portal/dhr/job_search)
 + [Metro Job Opportunities](https://jobs.metro.net/jobsearch.aspx)
 + [City of Los Angeles Performance Metrics](http://www.lamayor.org/performance) No raw data yet, just ugly useless bar graphs
++ [LA County Bike Count Data Clearinghouse](http://www.bikecounts.luskin.ucla.edu/) Interactive map and data downloads available (CSV) (KML)
 
 ##Other links
 
