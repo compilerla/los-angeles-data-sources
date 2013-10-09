@@ -1,6 +1,6 @@
 #Data Sources
 List of civic data sources in the Los Angeles area, including some links to state and federal data portals.
-##Exisiting
+##Cities and County
 
 + [Metro RSS Feeds](http://www.metro.net/news/metro-rss/) for News, Blogs, Meetings, Agendas, Jobs, and Service Advisories
 + [Metro Realtime API](http://developer.metro.net/introduction/realtime-api-overview/) overview and links to documentation
@@ -29,6 +29,9 @@ List of civic data sources in the Los Angeles area, including some links to stat
 + [Metro Job Opportunities](https://jobs.metro.net/jobsearch.aspx)
 + [City of Los Angeles Performance Metrics](http://www.lamayor.org/performance) No raw data yet, just ugly useless bar graphs
 + [LA County Bike Count Data Clearinghouse](http://www.bikecounts.luskin.ucla.edu/) Interactive map and data downloads available (CSV) (KML)
+
+##State
++ [Division of Land Resource Protection Farmland Data](http://redirect.conservation.ca.gov/DLRP/fmmp/product_page.asp) county data includes biennial land use conversion tables, historic data summaries, field analyst reports, GIS data and metadata, and soil units
 
 ##Other links
 
