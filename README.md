@@ -11,6 +11,7 @@ List of civic data sources in the Los Angeles area, including some links to stat
 + [City of Santa Monica Active Permits](http://www.smgov.net/uploadedFiles/Departments/PCD/Permits/Active-Permits.pdf) Report of active building permits updated biweekly (pdf)
 + [City of Santa Monica Parking Rates](http://www.smgov.net/uploadedFiles/Departments/PCD/Transportation/Motorists-Parking/Parking-Rates.pdf) (pdf) Data also available via Parkme app
 + [City of Santa Monica Real-time Parking Availablity](http://www.parkme.com/widget/?lat=34.01680622427998&lng=-118.49805856483461&tracker=a6870aea-21dc-11e2-ba1b-12313d150ae9&zoom=17) Available via Parkme app
++ [City of Santa Monica GIS Data](http://www.smgov.net/Departments/ISD/content.aspx?id=17850) shape files only, no services
 + [City of Los Angeles ArcGIS REST Services Directory](http://services1.arcgis.com/p84PN4WZvOWzi2j2/ArcGIS/rest/services) (JSON APIs)
   + CityBoundary
   + CouncilDistricts
