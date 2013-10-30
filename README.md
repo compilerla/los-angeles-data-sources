@@ -47,6 +47,7 @@ List of civic data sources in the Los Angeles area, including some links to stat
 + [U.S. Census Tiger Shapefiles](http://forever.codeforamerica.org/Census-API/shutdown-2013.html) a list of where to find shp files not acccessbile through normal routes due to the shutdown
 + [National Highway Traffic Safety Adminstration Fatality Analysis Reporting System and Data](http://www.nhtsa.gov/FARS) raw data available
 + [National Endowment for the Arts - Survey of Public Participation in the Arts](http://arts.gov/publications/additional-materials-related-to-2012-sppa) raw data available in multiple formats
++ [Experience LA Calendar RSS Feed](http://www.experiencela.com/calendar/rss)
 
 ##Potential
 
