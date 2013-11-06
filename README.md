@@ -13,6 +13,7 @@ List of civic data sources in the Los Angeles area, including some links to stat
 + [City of Santa Monica Real-time Parking Availablity](http://www.parkme.com/widget/?lat=34.01680622427998&lng=-118.49805856483461&tracker=a6870aea-21dc-11e2-ba1b-12313d150ae9&zoom=17) Available via Parkme app
 + [City of Santa Monica Business Directory](http://www.smgov.net/departments/finance/buslic/lookup/)
 + [City of Santa Monica GIS Data](http://www.smgov.net/Departments/ISD/content.aspx?id=17850) shape files only, no services
++ [City of Santa Monica GIS Data on Github](https://github.com/CityofSantaMonica/GIS)
 + [City of Santa Monica GTFS Data](https://github.com/CityofSantaMonica/GTFS) On GitHub!
 + [City of Los Angeles Performance Metrics](http://www.lamayor.org/performance) No raw data yet, just ugly useless bar graphs
 + [City of Los Angeles Budget Data](https://controllerdata.lacity.org/) 10 datasets from the City Controller aka "The Control Panel" uses Socrata platform
