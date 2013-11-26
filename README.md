@@ -57,6 +57,7 @@ Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http
 + [National Highway Traffic Safety Adminstration Fatality Analysis Reporting System and Data](http://www.nhtsa.gov/FARS) raw data available
 + [National Endowment for the Arts - Survey of Public Participation in the Arts](http://arts.gov/publications/additional-materials-related-to-2012-sppa) raw data available in multiple formats
 + [Experience LA Calendar RSS Feed](http://www.experiencela.com/calendar/rss)
++ [Google Civic Information API](https://developers.google.com/civic-information/)
 
 ##Potential
 
