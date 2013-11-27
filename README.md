@@ -58,6 +58,7 @@ Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http
 + [National Endowment for the Arts - Survey of Public Participation in the Arts](http://arts.gov/publications/additional-materials-related-to-2012-sppa) raw data available in multiple formats
 + [Experience LA Calendar RSS Feed](http://www.experiencela.com/calendar/rss)
 + [Google Civic Information API](https://developers.google.com/civic-information/)
++ [DataCatalogs.org](http://datacatalogs.org/) Searchable list of data catalogs from around the world
 
 ##Potential
 
