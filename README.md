@@ -9,16 +9,14 @@ Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http
 + [Metro Bikeways KML/KMZ](http://developer.metro.net/introduction/bikeways-data/download-bikeways-data/)
 + [Metro GTFS Data](http://developer.metro.net/introduction/gtfs-data/download-metros-gtfs-data/)
 + [Metro GIS Data](http://developer.metro.net/introduction/gis-data/download-gis-data/) static shapefiles updated after each shakeup
-+ [City of Santa Monica Today's Inspection Times](http://www.smgov.net/Departments/PCD/Reports/Inspections/rptinspectionroutingbldg.pdf) Daily report of scheduled Building & Safety inspections (pdf)
-+ [City of Santa Monica Active Permits](http://www.smgov.net/uploadedFiles/Departments/PCD/Permits/Active-Permits.pdf) Report of active building permits updated biweekly (pdf)
-+ [City of Santa Monica Parking Rates](http://www.smgov.net/uploadedFiles/Departments/PCD/Transportation/Motorists-Parking/Parking-Rates.pdf) (pdf) Data also available via Parkme app
-+ [City of Santa Monica Real-time Parking Availablity](http://www.parkme.com/widget/?lat=34.01680622427998&lng=-118.49805856483461&tracker=a6870aea-21dc-11e2-ba1b-12313d150ae9&zoom=17) Available via Parkme app
-+ [City of Santa Monica Business Directory](http://www.smgov.net/departments/finance/buslic/lookup/)
-+ [City of Santa Monica Landmarks](http://www.smgov.net/uploadedFiles/Departments/PCD/Programs/Historic-Preservation/Designated-Landmarks-Address.pdf) (PDF)
++ [City of Santa Monica Open Data Catalog](https://data.smgov.net/browse)
++ [City of Santa Monica Real-time Parking API](https://parking.api.smgov.net)
++ [City of Santa Monica Business Directory](https://data.smgov.net/Permits-Licenses/Active-Business-Licenses/wpc4-2j2n)
 + [City of Santa Monica GIS Data](http://www.smgov.net/Departments/ISD/content.aspx?id=17850) shape files only, no services
 + [City of Santa Monica GIS Data on Github](https://github.com/CityofSantaMonica/GIS) (geoJSON)(KML)
-+ [City of Santa Monica GTFS Data](https://github.com/CityofSantaMonica/GTFS) On GitHub!
-+ [City of Santa Monica Annual Budgets](http://www.smgov.net/Departments/Finance/content.aspx?id=11955) (PDF)
++ [City of Santa Monica / Big Blue Bus GTFS (static and real-time)](http://gtfs.bigbluebus.com/)
++ [City of Santa Monica Annual Budgets](https://santamonicaca.opengov.com)
++ [City of Santa Monica Landmarks](http://www.smgov.net/uploadedFiles/Departments/PCD/Programs/Historic-Preservation/Designated-Landmarks-Address.pdf) (PDF)
 + [City of Los Angeles Performance Metrics](http://www.lamayor.org/performance) No raw data yet, just ugly useless bar graphs
 + [City of Los Angeles Budget Data](https://controllerdata.lacity.org/) 10 datasets from the City Controller aka "The Control Panel" uses Socrata platform
 + [City of Los Angeles ArcGIS REST Services Directory](http://services1.arcgis.com/p84PN4WZvOWzi2j2/ArcGIS/rest/services) (JSON APIs)
