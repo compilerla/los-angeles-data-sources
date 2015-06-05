@@ -10,13 +10,14 @@ Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http
 + [Metro GTFS Data](http://developer.metro.net/introduction/gtfs-data/download-metros-gtfs-data/)
 + [Metro GIS Data](http://developer.metro.net/introduction/gis-data/download-gis-data/) static shapefiles updated after each shakeup
 + [City of Santa Monica Open Data Catalog](https://data.smgov.net/browse)
-+ [City of Santa Monica Real-time Parking API](https://parking.api.smgov.net)
-+ [City of Santa Monica Business Directory](https://data.smgov.net/Permits-Licenses/Active-Business-Licenses/wpc4-2j2n)
 + [City of Santa Monica GIS Data](http://www.smgov.net/Departments/ISD/content.aspx?id=17850) shape files only, no services
 + [City of Santa Monica GIS Data on Github](https://github.com/CityofSantaMonica/GIS) (geoJSON)(KML)
 + [City of Santa Monica / Big Blue Bus GTFS (static and real-time)](http://gtfs.bigbluebus.com/)
-+ [City of Santa Monica Annual Budgets](https://santamonicaca.opengov.com)
++ [City of Santa Monica Real-time Parking API](https://parking.api.smgov.net)
++ [City of Santa Monica Business Directory](https://data.smgov.net/Permits-Licenses/Active-Business-Licenses/wpc4-2j2n)
++ City of Santa Monica Annual Budgets [OpenGov](https://santamonicaca.opengov.com) [Socrata](https://data.smgov.net/browse?category=Finance&limitTo=datasets&utf8=%E2%9C%93)
 + [City of Santa Monica Landmarks](http://www.smgov.net/uploadedFiles/Departments/PCD/Programs/Historic-Preservation/Designated-Landmarks-Address.pdf) (PDF)
++ [City of Santa Monica Water Usage Records](https://data.smgov.net/Public-Services/Water-Usage/4nnq-5vzx)
 + [City of Los Angeles Performance Metrics](http://www.lamayor.org/performance) No raw data yet, just ugly useless bar graphs
 + [City of Los Angeles Budget Data](https://controllerdata.lacity.org/) 10 datasets from the City Controller aka "The Control Panel" uses Socrata platform
 + [City of Los Angeles ArcGIS REST Services Directory](http://services1.arcgis.com/p84PN4WZvOWzi2j2/ArcGIS/rest/services) (JSON APIs)
