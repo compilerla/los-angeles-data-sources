@@ -58,6 +58,7 @@ Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http
 + [Experience LA Calendar RSS Feed](http://www.experiencela.com/calendar/rss)
 + [Google Civic Information API](https://developers.google.com/civic-information/)
 + [DataCatalogs.org](http://datacatalogs.org/) Searchable list of data catalogs from around the world
++ [api.thirsty.la](http://api.thirsty.la/) scraped and compiled from some realtime LADWP water sensors in the Owens Valley, including the Los Angeles Aqueduct.
 
 ##Potential
 
