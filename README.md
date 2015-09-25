@@ -42,6 +42,7 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
 + [Transporation Injury Mapping System - School Data and Maps](http://tims.berkeley.edu/resources/srts/main.php#summary)
 + [California Active Transporation Safety Information Pages](http://catsip.berkeley.edu/) links to laws, policies, master plans, publications and data
 + [State of California Office of the Attorney General - Criminal Justice Profiles](https://oag.ca.gov/crime/cjsc/criminal-justice-profiles) Interactive tables, export (CSV)
++ [State of California Office of the Attorney General - OpenJustice Data Portal](https://openjustice.doj.ca.gov/data)(CSVs)
 + [California Highway Patrol Statewide Integrated Traffic Records System (SWITRS)](http://iswitrs.chp.ca.gov/Reports/jsp/userLogin.jsp)
 + [California Health & Human Services Open Data Portal](chhs.data.ca.gov)(Socrata)
 
