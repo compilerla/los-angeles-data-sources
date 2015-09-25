@@ -57,6 +57,7 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
 + [Democracy Map API](http://api.democracymap.org/) (JSON)(XML)
 + [Neighborland API](https://neighborland.com/docs)
 + [U.S. Census Tiger Shapefiles](http://forever.codeforamerica.org/Census-API/shutdown-2013.html) a list of where to find shp files not acccessbile through normal routes due to the shutdown
++ [City SDK from the Census Bureau](http://uscensusbureau.github.io/citysdk/)
 + [National Highway Traffic Safety Adminstration Fatality Analysis Reporting System and Data](http://www.nhtsa.gov/FARS) raw data available
 + [National Endowment for the Arts - Survey of Public Participation in the Arts](http://arts.gov/publications/additional-materials-related-to-2012-sppa) raw data available in multiple formats
 + [Experience LA Calendar RSS Feed](http://www.experiencela.com/calendar/rss)
