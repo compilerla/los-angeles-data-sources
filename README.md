@@ -18,6 +18,7 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
 + City of Santa Monica Annual Budgets [OpenGov](https://santamonicaca.opengov.com) [Socrata](https://data.smgov.net/browse?category=Finance&limitTo=datasets&utf8=%E2%9C%93)
 + [City of Santa Monica Landmarks](http://www.smgov.net/uploadedFiles/Departments/PCD/Programs/Historic-Preservation/Designated-Landmarks-Address.pdf) (PDF)
 + [City of Santa Monica Water Usage Records](https://data.smgov.net/Public-Services/Water-Usage/4nnq-5vzx)
++ [City of Los Angeles Open Data Portal](https://data.lacity.org/)(Socrata)
 + [City of Los Angeles Performance Metrics](http://www.lamayor.org/performance) No raw data yet, just ugly useless bar graphs
 + [City of Los Angeles Budget Data](https://controllerdata.lacity.org/) 10 datasets from the City Controller aka "The Control Panel" uses Socrata platform
 + [City of Los Angeles ArcGIS REST Services Directory](http://services1.arcgis.com/p84PN4WZvOWzi2j2/ArcGIS/rest/services) (JSON APIs)
