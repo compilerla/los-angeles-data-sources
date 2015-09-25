@@ -1,6 +1,6 @@
 #Data Sources
 List of civic data sources in the Los Angeles area, including some links to state and federal data portals.
-Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http://www.meetup.com/codeforla/) [GitHub](https://github.com/codeforla).
+Maintained for use by local Code for America Brigade, Hack for LA. [Website](http://hackforla.org) [Meetup](http://www.meetup.com/hackforla/) [GitHub](https://github.com/hackforla).
 
 ##Cities and County
 
