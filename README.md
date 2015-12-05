@@ -41,6 +41,7 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
 + [LA County Bike Count Data Clearinghouse](http://www.bikecounts.luskin.ucla.edu/) Interactive map and data downloads available (CSV) (KML)
 
 ##State
++ [List of State Agencies from CA Civic Lab](https://github.com/caciviclab/caciviclab.github.io/blob/master/state-agencies/js/data.json) (JSON) _Note maintained by [cacivicLa.org](http://caciviclab.org), not the State of CA_
 + [Division of Land Resource Protection Farmland Data](http://redirect.conservation.ca.gov/DLRP/fmmp/product_page.asp) county data includes biennial land use conversion tables, historic data summaries, field analyst reports, GIS data and metadata, and soil units
 + [Transporation Injury Mapping System - School Data and Maps](http://tims.berkeley.edu/resources/srts/main.php#summary)
 + [California Active Transporation Safety Information Pages](http://catsip.berkeley.edu/) links to laws, policies, master plans, publications and data
