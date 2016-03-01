@@ -68,8 +68,12 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
 + [Experience LA Calendar RSS Feed](http://www.experiencela.com/calendar/rss)
 + [Google Civic Information API](https://developers.google.com/civic-information/)
 + [DataCatalogs.org](http://datacatalogs.org/) Searchable list of data catalogs from around the world
+<<<<<<< HEAD
 + [Southern California Association of Governments GIS Portal](http://gisdata.scag.ca.gov/Pages/GIS-Library.aspx) _Seems to mostly be datasets uploaded from other authorities
 + [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-dhs-gii.opendata.arcgis.com/)
+=======
++ [api.thirsty.la](http://api.thirsty.la/) scraped and compiled from some realtime LADWP water sensors in the Owens Valley, including the Los Angeles Aqueduct.
+>>>>>>> f78a4bcad462ac7d76dab5f4c8efa7576a0f54c6
 
 ##Potential
 
