@@ -32,6 +32,8 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
   + Streetlights
   + TrashCollection
 + [City of West Hollywood Open Data Portal](https://data.weho.org/) (Socrata)
++ [City of Pasadena Open Data Portal](http://data.cityofpasadena.net/) (Junar)
++ [City of Pasadena GIS Open Data Portal](http://cityofpasadenaca.pasgis.opendata.arcgis.com/)
 + [Los Angeles County Open Data Portal](https://data.lacounty.gov/)(Socrata)
 + [Los Angeles County GIS Data Portal](http://egis3.lacounty.gov/dataportal/)
 + [City of Santa Monica Job Opportunities](http://agency.governmentjobs.com/santamonica/default.cfm)
@@ -49,6 +51,7 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
 + [State of California Office of the Attorney General - OpenJustice Data Portal](https://openjustice.doj.ca.gov/data)(CSVs)
 + [California Highway Patrol Statewide Integrated Traffic Records System (SWITRS)](http://iswitrs.chp.ca.gov/Reports/jsp/userLogin.jsp)
 + [California Health & Human Services Open Data Portal](chhs.data.ca.gov)(Socrata)
++ [Caltrans GIS Data Portal](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/gisdatalibrary.html)
 
 ##Other links
 
@@ -65,6 +68,8 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
 + [Experience LA Calendar RSS Feed](http://www.experiencela.com/calendar/rss)
 + [Google Civic Information API](https://developers.google.com/civic-information/)
 + [DataCatalogs.org](http://datacatalogs.org/) Searchable list of data catalogs from around the world
++ [Southern California Association of Governments GIS Portal](http://gisdata.scag.ca.gov/Pages/GIS-Library.aspx) _Seems to mostly be datasets uploaded from other authorities
++ [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-dhs-gii.opendata.arcgis.com/)
 
 ##Potential
 
