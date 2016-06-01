@@ -36,6 +36,7 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
 + [City of Pasadena GIS Open Data Portal](http://cityofpasadenaca.pasgis.opendata.arcgis.com/)
 + [Los Angeles County Open Data Portal](https://data.lacounty.gov/)(Socrata)
 + [Los Angeles County GIS Data Portal](http://egis3.lacounty.gov/dataportal/)
++ [Los Angeles County GIS Data Catalog](http://egis3.lacounty.gov/dataportal/data-catalog/)
 + [City of Santa Monica Job Opportunities](http://agency.governmentjobs.com/santamonica/default.cfm)
 + [City of Los Angeles Job Opportunities](http://agency.governmentjobs.com/lacity/default.cfm)
 + [Los Angeles County Job Opportunities](http://hr.lacounty.gov/wps/portal/dhr/job_search)
