@@ -64,6 +64,8 @@ City of West Hollywood
 + [California Highway Patrol Statewide Integrated Traffic Records System (SWITRS)](http://iswitrs.chp.ca.gov/Reports/jsp/userLogin.jsp)
 + [California Health & Human Services Open Data Portal](chhs.data.ca.gov)(Socrata)
 + [Caltrans GIS Data Portal](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/gisdatalibrary.html)
++ [California Board of Equalization](http://boe.ca.gov/dataportal/)
++ [California Landscape Conservation Cooperative](http://climate.calcommons.org/lists/datasets)
 
 ##Jobs
 + [City of Santa Monica Job Opportunities](http://agency.governmentjobs.com/santamonica/default.cfm)
@@ -89,6 +91,8 @@ City of West Hollywood
 + [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-dhs-gii.opendata.arcgis.com/)
 + [api.thirsty.la](http://api.thirsty.la/) scraped and compiled from some realtime LADWP water sensors in the Owens Valley, including the Los Angeles Aqueduct.
 + [EdDataZone](http://eddatazone.org/)
++ [Medicare](https://data.medicare.gov/) (Socrata)
++ [National Center for Education Statistics](http://nces.ed.gov/datatools/) _List of tools_
 
 ##Potential
 
