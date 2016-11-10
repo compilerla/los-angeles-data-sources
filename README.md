@@ -88,6 +88,7 @@ City of West Hollywood
 + [Southern California Association of Governments GIS Portal](http://gisdata.scag.ca.gov/Pages/GIS-Library.aspx) _Seems to mostly be datasets uploaded from other authorities
 + [Homeland Infrastructure Foundation-Level Data (HIFLD)](https://hifld-dhs-gii.opendata.arcgis.com/)
 + [api.thirsty.la](http://api.thirsty.la/) scraped and compiled from some realtime LADWP water sensors in the Owens Valley, including the Los Angeles Aqueduct.
++ [EdDataZone](http://eddatazone.org/)
 
 ##Potential
 
