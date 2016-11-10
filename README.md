@@ -18,9 +18,11 @@ City of Los Angeles
   + Parks and Recreation
   + Streetlights
   + TrashCollection
+  
 City of Pasadena
 + [City of Pasadena Open Data Portal](http://data.cityofpasadena.net/) (Junar)
 + [City of Pasadena GIS Open Data Portal](http://cityofpasadenaca.pasgis.opendata.arcgis.com/)
+
 City of Santa Monica
 + [City of Santa Monica Open Data Catalog](https://data.smgov.net/browse)
 + [City of Santa Monica GIS Data](http://www.smgov.net/Departments/ISD/content.aspx?id=17850) shape files only, no services
@@ -31,6 +33,7 @@ City of Santa Monica
 + City of Santa Monica Annual Budgets [OpenGov](https://santamonicaca.opengov.com) [Socrata](https://data.smgov.net/browse?category=Finance&limitTo=datasets&utf8=%E2%9C%93)
 + [City of Santa Monica Landmarks](http://www.smgov.net/uploadedFiles/Departments/PCD/Programs/Historic-Preservation/Designated-Landmarks-Address.pdf) (PDF)
 + [City of Santa Monica Water Usage Records](https://data.smgov.net/Public-Services/Water-Usage/4nnq-5vzx)
+
 City of West Hollywood
 + [City of West Hollywood Open Data Portal](https://data.weho.org/) (Socrata)
 
