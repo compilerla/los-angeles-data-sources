@@ -2,23 +2,8 @@
 List of civic data sources in the Los Angeles area, including some links to state and federal data portals.
 Maintained for use by local Code for America Brigade, Hack for LA. [Website](http://hackforla.org) [Meetup](http://www.meetup.com/hackforla/) [GitHub](https://github.com/hackforla).
 
-##Cities and County
-
-+ [Metro RSS Feeds](http://www.metro.net/news/metro-rss/) for News, Blogs, Meetings, Agendas, Jobs, and Service Advisories
-+ [Metro Realtime API](http://developer.metro.net/introduction/realtime-api-overview/) overview and links to documentation
-+ [Metro Bikeways KML/KMZ](http://developer.metro.net/introduction/bikeways-data/download-bikeways-data/)
-+ [Metro Bike Share Data](https://bikeshare.metro.net/about/data/) Real-time station status (GBFS or GeoJSON), Quarterly GBFS usage data, Station Tables
-+ [Metro GTFS Data](http://developer.metro.net/introduction/gtfs-data/download-metros-gtfs-data/)
-+ [Metro GIS Data](http://developer.metro.net/introduction/gis-data/download-gis-data/) static shapefiles updated after each shakeup
-+ [City of Santa Monica Open Data Catalog](https://data.smgov.net/browse)
-+ [City of Santa Monica GIS Data](http://www.smgov.net/Departments/ISD/content.aspx?id=17850) shape files only, no services
-+ [City of Santa Monica GIS Data on Github](https://github.com/CityofSantaMonica/GIS) (geoJSON)(KML)
-+ [City of Santa Monica / Big Blue Bus GTFS (static and real-time)](http://gtfs.bigbluebus.com/)
-+ [City of Santa Monica Real-time Parking API](https://parking.api.smgov.net)
-+ [City of Santa Monica Business Directory](https://data.smgov.net/Permits-Licenses/Active-Business-Licenses/wpc4-2j2n)
-+ City of Santa Monica Annual Budgets [OpenGov](https://santamonicaca.opengov.com) [Socrata](https://data.smgov.net/browse?category=Finance&limitTo=datasets&utf8=%E2%9C%93)
-+ [City of Santa Monica Landmarks](http://www.smgov.net/uploadedFiles/Departments/PCD/Programs/Historic-Preservation/Designated-Landmarks-Address.pdf) (PDF)
-+ [City of Santa Monica Water Usage Records](https://data.smgov.net/Public-Services/Water-Usage/4nnq-5vzx)
+##Cities
+City of Los Angeles
 + [City of Los Angeles Open Data Portal](https://data.lacity.org/)(Socrata)
 + [City of Los Angeles GeoHub](https://geohub.lacity.org)
 + [City of Los Angeles Performance Metrics](http://www.lamayor.org/performance) No raw data yet, just ugly useless bar graphs
@@ -33,18 +18,36 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
   + Parks and Recreation
   + Streetlights
   + TrashCollection
-+ [City of West Hollywood Open Data Portal](https://data.weho.org/) (Socrata)
+City of Pasadena
 + [City of Pasadena Open Data Portal](http://data.cityofpasadena.net/) (Junar)
 + [City of Pasadena GIS Open Data Portal](http://cityofpasadenaca.pasgis.opendata.arcgis.com/)
+City of Santa Monica
++ [City of Santa Monica Open Data Catalog](https://data.smgov.net/browse)
++ [City of Santa Monica GIS Data](http://www.smgov.net/Departments/ISD/content.aspx?id=17850) shape files only, no services
++ [City of Santa Monica GIS Data on Github](https://github.com/CityofSantaMonica/GIS) (geoJSON)(KML)
++ [City of Santa Monica / Big Blue Bus GTFS (static and real-time)](http://gtfs.bigbluebus.com/)
++ [City of Santa Monica Real-time Parking API](https://parking.api.smgov.net)
++ [City of Santa Monica Business Directory](https://data.smgov.net/Permits-Licenses/Active-Business-Licenses/wpc4-2j2n)
++ City of Santa Monica Annual Budgets [OpenGov](https://santamonicaca.opengov.com) [Socrata](https://data.smgov.net/browse?category=Finance&limitTo=datasets&utf8=%E2%9C%93)
++ [City of Santa Monica Landmarks](http://www.smgov.net/uploadedFiles/Departments/PCD/Programs/Historic-Preservation/Designated-Landmarks-Address.pdf) (PDF)
++ [City of Santa Monica Water Usage Records](https://data.smgov.net/Public-Services/Water-Usage/4nnq-5vzx)
+City of West Hollywood
++ [City of West Hollywood Open Data Portal](https://data.weho.org/) (Socrata)
+
+##County
 + [Los Angeles County Open Data Portal](https://data.lacounty.gov/)(Socrata)
 + [Los Angeles County GIS Data Portal](http://egis3.lacounty.gov/dataportal/)
 + [Los Angeles County GIS Data Catalog](http://egis3.lacounty.gov/dataportal/data-catalog/)
-+ [City of Santa Monica Job Opportunities](http://agency.governmentjobs.com/santamonica/default.cfm)
-+ [City of Los Angeles Job Opportunities](http://agency.governmentjobs.com/lacity/default.cfm)
-+ [Los Angeles County Job Opportunities](http://hr.lacounty.gov/wps/portal/dhr/job_search)
-+ [Metro Job Opportunities](https://jobs.metro.net/jobsearch.aspx)
+
+##Other County Governmental Agencies
 + [LA County Bike Count Data Clearinghouse](http://www.bikecounts.luskin.ucla.edu/) Interactive map and data downloads available (CSV) (KML)
 + [Los Angeles Homeless Services Authority Counts](https://www.lahsa.org/homeless-count/results)
++ [Metro RSS Feeds](http://www.metro.net/news/metro-rss/) for News, Blogs, Meetings, Agendas, Jobs, and Service Advisories
++ [Metro Realtime API](http://developer.metro.net/introduction/realtime-api-overview/) overview and links to documentation
++ [Metro Bikeways KML/KMZ](http://developer.metro.net/introduction/bikeways-data/download-bikeways-data/)
++ [Metro Bike Share Data](https://bikeshare.metro.net/about/data/) Real-time station status (GBFS or GeoJSON), Quarterly GBFS usage data, Station Tables
++ [Metro GTFS Data](http://developer.metro.net/introduction/gtfs-data/download-metros-gtfs-data/)
++ [Metro GIS Data](http://developer.metro.net/introduction/gis-data/download-gis-data/) static shapefiles updated after each shakeup
 
 ##State
 + [List of State Agencies from CA Civic Lab](https://github.com/caciviclab/caciviclab.github.io/blob/master/state-agencies/js/data.json) (JSON) _Note maintained by [cacivicLa.org](http://caciviclab.org), not the State of CA_
@@ -57,8 +60,13 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
 + [California Health & Human Services Open Data Portal](chhs.data.ca.gov)(Socrata)
 + [Caltrans GIS Data Portal](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/gisdatalibrary.html)
 
-##Other links
+##Jobs
++ [City of Santa Monica Job Opportunities](http://agency.governmentjobs.com/santamonica/default.cfm)
++ [City of Los Angeles Job Opportunities](http://agency.governmentjobs.com/lacity/default.cfm)
++ [Los Angeles County Job Opportunities](http://hr.lacounty.gov/wps/portal/dhr/job_search)
++ [Metro Job Opportunities](https://jobs.metro.net/jobsearch.aspx)
 
+##Other links
 + [Metro Developer](http://developer.metro.net/)
 + [National Day of Civic Hacking Datasets and Resources](http://hackforchange.org/datasets) Community sourced list
 + [OpenDataCatalog San Diego](http://catalog.opensandiego.org/) maintainted by CfA brigade
