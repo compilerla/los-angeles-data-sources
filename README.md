@@ -2,6 +2,8 @@
 List of civic data sources in the Los Angeles area, including some links to state and federal data portals.
 Maintained for use by local Code for America Brigade, Hack for LA. [Website](http://hackforla.org) [Meetup](http://www.meetup.com/hackforla/) [GitHub](https://github.com/hackforla).
 
+[Vyki's Master Data Inventory List for the Greater Los Angeles Region](https://docs.google.com/spreadsheets/d/1uNtA4GbBwky8PPdNUvmXXZCI1GLtH5cGF-Q0FqD90w0/edit?usp=sharing) (Google Doc) Metadata for 500+ and counting datasets. Working on building data library -- this is the initial data collection. <3 <3 Vyki
+
 ##Cities
 City of Los Angeles
 + [City of Los Angeles Open Data Portal](https://data.lacity.org/)(Socrata)
