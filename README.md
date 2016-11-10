@@ -7,6 +7,7 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
 + [Metro RSS Feeds](http://www.metro.net/news/metro-rss/) for News, Blogs, Meetings, Agendas, Jobs, and Service Advisories
 + [Metro Realtime API](http://developer.metro.net/introduction/realtime-api-overview/) overview and links to documentation
 + [Metro Bikeways KML/KMZ](http://developer.metro.net/introduction/bikeways-data/download-bikeways-data/)
++ [Metro Bike Share Data](https://bikeshare.metro.net/about/data/) Real-time station status (GBFS or GeoJSON), Quarterly GBFS usage data, Station Tables
 + [Metro GTFS Data](http://developer.metro.net/introduction/gtfs-data/download-metros-gtfs-data/)
 + [Metro GIS Data](http://developer.metro.net/introduction/gis-data/download-gis-data/) static shapefiles updated after each shakeup
 + [City of Santa Monica Open Data Catalog](https://data.smgov.net/browse)
@@ -79,3 +80,5 @@ Maintained for use by local Code for America Brigade, Hack for LA. [Website](htt
 
 + [Cultivate LA](http://cultivatelosangeles.org/) interactive map and report on all urban ag sites in Los Angeles County
 
+##Data Standards
++ [General Bikeshare Feed Specification](https://github.com/NABSA/gbfs)
