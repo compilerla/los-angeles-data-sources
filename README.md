@@ -1,6 +1,14 @@
+#Regional Data Inventory
+This workbook is maintained by Vyki Englert and Emily Forscher of Compiler LLC on behalf of California Community Foundation. The primary spreadsheet uses structured metadata to track datasets that describe or pertain to Los Angeles County. Other sheets track regional data advocates, publishers, data standards, and relevant data portals.
+
+For the purpose of this effort, a dataset is defined by the W3C as “A collection of data, published or curated by a single agent, and available for access or download in one or more formats.” The regional landscape documents datasets, by collecting and maintaining metadata for each of these datasets. Metadata collected meets the minimum required fields of the [W3C Data Catalog Vocabulary (DCAT) metadata standard](https://www.w3.org/TR/vocab-dcat/). This standard was chosen as it’s already it’s the basis of the [Project Open Data Metadata Schema v1.1](https://project-open-data.cio.gov/v1.1/schema/) developed and adopted by the US Federal data.gov platform. Common adoption of metadata standards will facilitate comparison and federation of records across data portals. The properties in use and their definitions are listed below. 
+
+This inventory is a landscape analysis for the Social Change Data Commons Project, as part of an ongoing collaboration with California Community Foundation. It is a work in progress. Please contact Vyki Englert (vyki@compiler.la) and Emily Forscher (emily@compiler.la) with concerns, questions, and suggestions.
+
 #Data Sources
-List of civic data sources in the Los Angeles area, including some links to state and federal data portals.
-Maintained for use by local Code for America Brigade, Hack for LA. [Website](http://hackforla.org) [Meetup](http://www.meetup.com/hackforla/) [GitHub](https://github.com/hackforla).
+This repo was originally created and maintained by @vykster for use by the local civic tech community, in particular for use by local Code for America Brigade, Hack for LA. [Website](http://hackforla.org) [Meetup](http://www.meetup.com/hackforla/) [GitHub](https://github.com/hackforla).
+
+Indiviual links and metadata for datasets pertaining to the Los Angeles region may be found the in Regional Data Inventory linked above. Links to many publishers, portals, and data tools may be found below.
 
 ##Cities
 City of Los Angeles
@@ -37,7 +45,7 @@ City of Santa Monica
 City of West Hollywood
 + [City of West Hollywood Open Data Portal](https://data.weho.org/) (Socrata)
 
-##County
+##County - Los Angeles
 + [Los Angeles County Open Data Portal](https://data.lacounty.gov/)(Socrata)
 + [Los Angeles County GIS Data Portal](http://egis3.lacounty.gov/dataportal/)
 + [Los Angeles County GIS Data Catalog](http://egis3.lacounty.gov/dataportal/data-catalog/)
@@ -52,7 +60,7 @@ City of West Hollywood
 + [Metro GTFS Data](http://developer.metro.net/introduction/gtfs-data/download-metros-gtfs-data/)
 + [Metro GIS Data](http://developer.metro.net/introduction/gis-data/download-gis-data/) static shapefiles updated after each shakeup
 
-##State
+##State - California
 + [List of State Agencies from CA Civic Lab](https://github.com/caciviclab/caciviclab.github.io/blob/master/state-agencies/js/data.json) (JSON) _Note maintained by [cacivicLa.org](http://caciviclab.org), not the State of CA_
 + [Division of Land Resource Protection Farmland Data](http://redirect.conservation.ca.gov/DLRP/fmmp/product_page.asp) county data includes biennial land use conversion tables, historic data summaries, field analyst reports, GIS data and metadata, and soil units
 + [Transporation Injury Mapping System - School Data and Maps](http://tims.berkeley.edu/resources/srts/main.php#summary)
