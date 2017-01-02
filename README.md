@@ -11,29 +11,32 @@ This repo was originally created and maintained by @vykster for use by the local
 Indiviual links and metadata for datasets pertaining to the Los Angeles region may be found the in Regional Data Inventory linked above. Links to many publishers, portals, and data tools may be found below.
 
 ##Cities
+City of Glendale
++ [City of Glendale Performance Dashboar](https://performance.glendaleca.gov) (Socrata)
+
+City of Long Beach
++ [Open Long Beach](http://www.longbeach.gov/openlb/) _Links to apps, searchable databases and more_
++ [Open Data Status Report August 2015](https://speakup-us-production.s3.amazonaws.com/uploads/attachment/file/55cd321a6c9d6f8d1a0014e8/Status_of_Long_Beach_Open_Data_Inventory_-_081315.pdf) (PDF)
+
 City of Los Angeles
 + [City of Los Angeles Open Data Portal](https://data.lacity.org/)(Socrata)
 + [City of Los Angeles GeoHub](https://geohub.lacity.org)
-+ [City of Los Angeles Performance Metrics](http://www.lamayor.org/performance) No raw data yet, just ugly useless bar graphs
++ [City of Los Angeles pLAn - Sustainability Performance Dashboard](https://performance.lacity.org/)
++ [City of Los Angeles - Mayor's Dashboard](http://dashboard.lamayor.org/)
 + [City of Los Angeles Budget Data](https://controllerdata.lacity.org/) 10 datasets from the City Controller aka "The Control Panel" uses Socrata platform
 + [City of Los Angeles ArcGIS REST Services Directory](http://services1.arcgis.com/p84PN4WZvOWzi2j2/ArcGIS/rest/services) (JSON APIs)
-  + CityBoundary
-  + CouncilDistricts
-  + FireHydrants
-  + LAUSD Schools
-  + Libraries
-  + NeighborhoodCouncils
-  + Parks and Recreation
-  + Streetlights
-  + TrashCollection
   
 City of Pasadena
 + [City of Pasadena Open Data Portal](http://data.cityofpasadena.net/) (Junar)
 + [City of Pasadena GIS Open Data Portal](http://cityofpasadenaca.pasgis.opendata.arcgis.com/)
 
+City of Santa Clarita
++ [City of Santa Claria Open Data Portal](http://www.santa-clarita.com/residents/open-data-portal) (OpenGov)
+
 City of Santa Monica
 + [City of Santa Monica Open Data Catalog](https://data.smgov.net/browse)
 + [City of Santa Monica GIS Data](http://www.smgov.net/Departments/ISD/content.aspx?id=17850) shape files only, no services
++ [City of Santa Monica ArcGIS Open Data Hub](http://beta.smgov.opendata.arcgis.com/) _new!_
 + [City of Santa Monica GIS Data on Github](https://github.com/CityofSantaMonica/GIS) (geoJSON)(KML)
 + [City of Santa Monica / Big Blue Bus GTFS (static and real-time)](http://gtfs.bigbluebus.com/)
 + [City of Santa Monica Real-time Parking API](https://parking.api.smgov.net)
@@ -41,6 +44,7 @@ City of Santa Monica
 + City of Santa Monica Annual Budgets [OpenGov](https://santamonicaca.opengov.com) [Socrata](https://data.smgov.net/browse?category=Finance&limitTo=datasets&utf8=%E2%9C%93)
 + [City of Santa Monica Landmarks](http://www.smgov.net/uploadedFiles/Departments/PCD/Programs/Historic-Preservation/Designated-Landmarks-Address.pdf) (PDF)
 + [City of Santa Monica Water Usage Records](https://data.smgov.net/Public-Services/Water-Usage/4nnq-5vzx)
++ [Open Santa Monica](http://open.smgov.net/) _Links to APIs, Socrata Portal, ArcGIS Open Data Hub, Apps and more_
 
 City of West Hollywood
 + [City of West Hollywood Open Data Portal](https://data.weho.org/) (Socrata)
