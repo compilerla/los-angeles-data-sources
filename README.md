@@ -1,4 +1,6 @@
-#[Regional Data Inventory](https://docs.google.com/spreadsheets/d/1uNtA4GbBwky8PPdNUvmXXZCI1GLtH5cGF-Q0FqD90w0/edit?usp=sharing)
+#Regional Data Inventory
+[Regional Data Inventory](https://docs.google.com/spreadsheets/d/1uNtA4GbBwky8PPdNUvmXXZCI1GLtH5cGF-Q0FqD90w0/edit?usp=sharing) (Google Sheets)
+
 This workbook is maintained by Vyki Englert and Emily Forscher of Compiler LLC on behalf of California Community Foundation. The primary spreadsheet uses structured metadata to track datasets that describe or pertain to Los Angeles County. Other sheets track regional data advocates, publishers, data standards, and relevant data portals.
 
 For the purpose of this effort, a dataset is defined by the W3C as “A collection of data, published or curated by a single agent, and available for access or download in one or more formats.” The regional landscape documents datasets, by collecting and maintaining metadata for each of these datasets. Metadata collected meets the minimum required fields of the [W3C Data Catalog Vocabulary (DCAT) metadata standard](https://www.w3.org/TR/vocab-dcat/). This standard was chosen as it’s already it’s the basis of the [Project Open Data Metadata Schema v1.1](https://project-open-data.cio.gov/v1.1/schema/) developed and adopted by the US Federal data.gov platform. Common adoption of metadata standards will facilitate comparison and federation of records across data portals. The properties in use and their definitions are listed below. 
