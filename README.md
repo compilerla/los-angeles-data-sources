@@ -109,4 +109,4 @@ City of West Hollywood
 + [Cultivate LA](http://cultivatelosangeles.org/) interactive map and report on all urban ag sites in Los Angeles County
 
 ##Data Standards
-+ [General Bikeshare Feed Specification](https://github.com/NABSA/gbfs)
++ [Compiler LA Civic Data Standards List](https://github.com/compilerla/civic-data-standards) _Now Maintained Separately_
