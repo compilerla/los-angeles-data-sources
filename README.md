@@ -14,14 +14,14 @@ Indiviual links and metadata for datasets pertaining to the Los Angeles region m
 
 ##Cities
 City of Glendale
-+ [City of Glendale Performance Dashboar](https://performance.glendaleca.gov) (Socrata)
++ [City of Glendale Performance Dashboard](https://performance.glendaleca.gov) (Socrata)
 
 City of Long Beach
 + [Open Long Beach](http://www.longbeach.gov/openlb/) _Links to apps, searchable databases and more_
 + [Open Data Status Report August 2015](https://speakup-us-production.s3.amazonaws.com/uploads/attachment/file/55cd321a6c9d6f8d1a0014e8/Status_of_Long_Beach_Open_Data_Inventory_-_081315.pdf) (PDF)
 
 City of Los Angeles
-+ [City of Los Angeles Open Data Portal](https://data.lacity.org/)(Socrata)
++ [City of Los Angeles Open Data Portal](https://data.lacity.org/) (Socrata)
 + [City of Los Angeles GeoHub](https://geohub.lacity.org)
 + [City of Los Angeles pLAn - Sustainability Performance Dashboard](https://performance.lacity.org/)
 + [City of Los Angeles - Mayor's Dashboard](http://dashboard.lamayor.org/)
@@ -52,7 +52,7 @@ City of West Hollywood
 + [City of West Hollywood Open Data Portal](https://data.weho.org/) (Socrata)
 
 ##County - Los Angeles
-+ [Los Angeles County Open Data Portal](https://data.lacounty.gov/)(Socrata)
++ [Los Angeles County Open Data Portal](https://data.lacounty.gov/) (Socrata)
 + [Los Angeles County GIS Data Portal](http://egis3.lacounty.gov/dataportal/)
 + [Los Angeles County GIS Data Catalog](http://egis3.lacounty.gov/dataportal/data-catalog/)
 
@@ -72,9 +72,9 @@ City of West Hollywood
 + [Transporation Injury Mapping System - School Data and Maps](http://tims.berkeley.edu/resources/srts/main.php#summary)
 + [California Active Transporation Safety Information Pages](http://catsip.berkeley.edu/) links to laws, policies, master plans, publications and data
 + [State of California Office of the Attorney General - Criminal Justice Profiles](https://oag.ca.gov/crime/cjsc/criminal-justice-profiles) Interactive tables, export (CSV)
-+ [State of California Office of the Attorney General - OpenJustice Data Portal](https://openjustice.doj.ca.gov/data)(CSVs)
++ [State of California Office of the Attorney General - OpenJustice Data Portal](https://openjustice.doj.ca.gov/data) (CSVs)
 + [California Highway Patrol Statewide Integrated Traffic Records System (SWITRS)](http://iswitrs.chp.ca.gov/Reports/jsp/userLogin.jsp)
-+ [California Health & Human Services Open Data Portal](chhs.data.ca.gov)(Socrata)
++ [California Health & Human Services Open Data Portal](chhs.data.ca.gov) (Socrata)
 + [Caltrans GIS Data Portal](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/gisdatalibrary.html)
 + [California Board of Equalization](http://boe.ca.gov/dataportal/)
 + [California Landscape Conservation Cooperative](http://climate.calcommons.org/lists/datasets)
